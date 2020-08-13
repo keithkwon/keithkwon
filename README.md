@@ -3,7 +3,7 @@
 
 Blog : kihyeonkwon.github.io
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Ki's github stats](https://github-readme-stats.vercel.app/api?username=kihyeonkwon)](https://github.com/kihyeonkwon/github-readme-stats)
 
 
 
