@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### Blog : [My github blog](https://kihyeonkwon.github.io)
+### Resume : [My Resume](https://kwonkihyeon.com)
 
 
 [![Ki's github stats](https://github-readme-stats.vercel.app/api?username=kihyeonkwon)](https://github.com/kihyeonkwon/github-readme-stats)
