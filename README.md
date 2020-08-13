@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-Blog : kihyeonkwon.github.io
+### Blog : [My github blog](https://kihyeonkwon.github.io)
+
 
 [![Ki's github stats](https://github-readme-stats.vercel.app/api?username=kihyeonkwon)](https://github.com/kihyeonkwon/github-readme-stats)
 
