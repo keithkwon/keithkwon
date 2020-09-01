@@ -1,8 +1,6 @@
-### Hi there 👋
+🌱 I’m currently learning Algorithm & Datastructures
 
-
-### My Notion : [OK Computer](https://www.notion.so/kikwn/OK-Computer-335fc7d57ecf4e56878ceebdb9c0e2ea)
-
+Notion : [OK Computer](https://www.notion.so/kikwn/OK-Computer-335fc7d57ecf4e56878ceebdb9c0e2ea)
 
 [![Ki's github stats](https://github-readme-stats.vercel.app/api?username=kihyeonkwon)](https://github.com/kihyeonkwon/github-readme-stats)
 
