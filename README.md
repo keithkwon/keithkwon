@@ -1,4 +1,4 @@
-🌱 I’m currently learning Algorithm & Datastructures
+🌱 I’m currently learning at SSAFY
 
 Notion : [OK Computer](https://www.notion.so/kikwn/OK-Computer-335fc7d57ecf4e56878ceebdb9c0e2ea)
 
@@ -10,7 +10,7 @@ Notion : [OK Computer](https://www.notion.so/kikwn/OK-Computer-335fc7d57ecf4e568
 **kihyeonkwon/kihyeonkwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+🌱 I’m currently learning Algorithm & Datastructures
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
