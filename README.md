@@ -1,5 +1,5 @@
 
-Notion : [OK Computer](https://www.notion.so/kikwn/OK-Computer-335fc7d57ecf4e56878ceebdb9c0e2ea)
+Notion : [OK Computer](https://www.notion.so/)
 
 
 <!--
